@@ -1,0 +1,24 @@
+{
+  "name": "primea-container-table",
+  "version": "0.0.0",
+  "description": "Each Primea container must use a UID that is an integer. This Repo is for tracking and coordination for of container UIDs.",
+  "main": "table.js",
+  "author": "mjbecze <mjbecze@gmail.com>",
+  "license": "MPL-2.0",
+  "keywords": [
+    "prima"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primea/container-table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/primea/container-table/issues"
+  },
+  "homepage": "https://github.com/primea/container-table#readme"
+}
