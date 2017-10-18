@@ -1,4 +1,5 @@
 "name", "UID", "JS implementaion"
 storage, 0,
 Webassembly, 1, https://github.com/primea/js-primea-wasm-container
+Dfinity IO, 3,
 iframe, 10, https://github.com/primea/js-primea-iframe-container
